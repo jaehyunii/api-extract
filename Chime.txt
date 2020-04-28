@@ -1,0 +1,3 @@
+Chime
+'mscoree.dll'
+'_CorExeMain'
